@@ -73,7 +73,7 @@ struct QuestionView: View {
                                  }) {
                                      Text(option)
                                          .padding()
-                                         .frame(width: 300)
+                                         .frame(width: 500)
                                          .background(
                                              viewModel.selectedOption == option ?
                                              (viewModel.isAnswerCorrect == true ? Color.green : Color.red) :
@@ -81,7 +81,7 @@ struct QuestionView: View {
                                          )
                                          .foregroundColor(.white)
                                          .cornerRadius(50)
-                                         .padding(.vertical, 10)
+                                         .padding(.vertical,10)
                                  }
                                  .disabled(viewModel.selectedOption != nil) // Disable buttons after selection
                              }
