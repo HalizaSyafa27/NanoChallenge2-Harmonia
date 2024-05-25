@@ -11,20 +11,17 @@ struct ContentView: View {
     var body: some View {
         NavigationStack {
             ZStack {
-                Image("Background")
+                Image("Background-rev")
                     .resizable()
                     .ignoresSafeArea()
                 VStack(spacing: 40) {
                     VStack(spacing: 20) {
-                        Text("Guess Song")
-                            .purpleTitle()
-                        
-                        Text("Ready to guess the song?")
-                            .foregroundColor(Color.text)
+                        NavigationLink(destination: ChooseLevelView()) {
+                            PrimaryButton(text: "Start", width: 200, height: 50, fontSize: 24)
+                        }
+                        .padding(.top, 300)
                     }
-                    NavigationLink(destination: QuestionView()) {
-                        PrimaryButton(text: "Start")
-                    }
+                  
                 }
                 .frame(maxWidth: .infinity, maxHeight: .infinity)
                 .edgesIgnoringSafeArea(.all)

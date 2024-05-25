@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4B04450F2BFDF39100D893D2 /* Best Part.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4B04450E2BFDF39100D893D2 /* Best Part.mp3 */; };
+		4B0445112BFDF65F00D893D2 /* It Will Rain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4B0445102BFDF65F00D893D2 /* It Will Rain.mp3 */; };
+		4B0445132BFE01F600D893D2 /* SongDetailModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B0445122BFE01F600D893D2 /* SongDetailModel.swift */; };
+		4B0445152BFE02A800D893D2 /* DetailSongView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B0445142BFE02A800D893D2 /* DetailSongView.swift */; };
+		4B3833BD2BFFA84D003B1E1A /* Cantik.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4B3833BC2BFFA84D003B1E1A /* Cantik.mp3 */; };
+		4B3833BF2BFFAE00003B1E1A /* Alkohol.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4B3833BE2BFFAE00003B1E1A /* Alkohol.mp3 */; };
+		4B3833C12BFFB0F1003B1E1A /* How Deep Is Your Love.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4B3833C02BFFB0F1003B1E1A /* How Deep Is Your Love.mp3 */; };
+		4B3833C32BFFB1DC003B1E1A /* Cari Pacar Lagi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4B3833C22BFFB1DC003B1E1A /* Cari Pacar Lagi.mp3 */; };
+		4B3833C52BFFBFBA003B1E1A /* Nuansa Bening.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4B3833C42BFFBFBA003B1E1A /* Nuansa Bening.mp3 */; };
 		4B50291F2BF4B7040081A626 /* GuestSongApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B50291E2BF4B7040081A626 /* GuestSongApp.swift */; };
 		4B5029212BF4B7040081A626 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5029202BF4B7040081A626 /* ContentView.swift */; };
 		4B5029232BF4B7050081A626 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B5029222BF4B7050081A626 /* Assets.xcassets */; };
@@ -18,12 +27,22 @@
 		4B50294F2BF4B7580081A626 /* AnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B50294E2BF4B7580081A626 /* AnimationView.swift */; };
 		4B5029522BF4E1E40081A626 /* PrimaryButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5029512BF4E1E40081A626 /* PrimaryButton.swift */; };
 		4B5029542BF4FB310081A626 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5029532BF4FB310081A626 /* Extensions.swift */; };
-		4B5FB6042BF59E9900CEA352 /* QuestionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5FB6032BF59E9900CEA352 /* QuestionView.swift */; };
+		4B514DD52BFC9594006F07C8 /* Backburner.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4B514DD42BFC9594006F07C8 /* Backburner.mp3 */; };
+		4B514DD72BFC97D5006F07C8 /* Keep You Safe.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4B514DD62BFC97D5006F07C8 /* Keep You Safe.mp3 */; };
+		4B5FB6042BF59E9900CEA352 /* EasyQuestionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5FB6032BF59E9900CEA352 /* EasyQuestionView.swift */; };
 		4B5FB6062BF5A0BF00CEA352 /* ProgressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5FB6052BF5A0BF00CEA352 /* ProgressBar.swift */; };
 		4B5FB6082BF5ABD700CEA352 /* SongModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5FB6072BF5ABD700CEA352 /* SongModel.swift */; };
 		4B5FB60A2BF5BCE800CEA352 /* QuizModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B5FB6092BF5BCE800CEA352 /* QuizModel.swift */; };
 		4B8231792BF706210053A193 /* Losing Us.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4B8231782BF706210053A193 /* Losing Us.mp3 */; };
-		4B82317B2BF72AEA0053A193 /* Bejeweled.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4B82317A2BF72AEA0053A193 /* Bejeweled.mp3 */; };
+		4B917C7D2BFC4E2B005DADC9 /* Love In The Dark.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4B917C7C2BFC4E2B005DADC9 /* Love In The Dark.mp3 */; };
+		4B917C7F2BFC4F42005DADC9 /* Eenie Meenie.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4B917C7E2BFC4F42005DADC9 /* Eenie Meenie.mp3 */; };
+		4B917C812BFC5169005DADC9 /* Nobody Gets Me.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4B917C802BFC5169005DADC9 /* Nobody Gets Me.mp3 */; };
+		4B917C832BFC5808005DADC9 /* She Will be Loved.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4B917C822BFC5808005DADC9 /* She Will be Loved.mp3 */; };
+		4BA61C8D2C0066D000A9BBB6 /* Guilty As Sin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4BA61C8C2C0066D000A9BBB6 /* Guilty As Sin.mp3 */; };
+		4BD37CA02BFB8E1700E23E4D /* HardQuestionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BD37C9F2BFB8E1700E23E4D /* HardQuestionView.swift */; };
+		4BD37CA22BFB8EC800E23E4D /* ChooseLevelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BD37CA12BFB8EC800E23E4D /* ChooseLevelView.swift */; };
+		4BD37CA42BFBBCE000E23E4D /* The Man That Cant be Moved.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4BD37CA32BFBBCE000E23E4D /* The Man That Cant be Moved.mp3 */; };
+		4BD37CA62BFBBF6800E23E4D /* A Dream Is a Wish Your Heart Makes.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4BD37CA52BFBBF6800E23E4D /* A Dream Is a Wish Your Heart Makes.mp3 */; };
 		4BDB548A2BF63DC600C6662B /* Kupu kupu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4BDB54862BF63DC600C6662B /* Kupu kupu.mp3 */; };
 		4BDB548B2BF63DC600C6662B /* Panah Asmara.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4BDB54872BF63DC600C6662B /* Panah Asmara.mp3 */; };
 		4BDB548C2BF63DC600C6662B /* Lover.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4BDB54882BF63DC600C6662B /* Lover.mp3 */; };
@@ -49,25 +68,45 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4B50291B2BF4B7040081A626 /* GuestSong.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuestSong.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4B04450E2BFDF39100D893D2 /* Best Part.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Best Part.mp3"; sourceTree = "<group>"; };
+		4B0445102BFDF65F00D893D2 /* It Will Rain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "It Will Rain.mp3"; sourceTree = "<group>"; };
+		4B0445122BFE01F600D893D2 /* SongDetailModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongDetailModel.swift; sourceTree = "<group>"; };
+		4B0445142BFE02A800D893D2 /* DetailSongView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailSongView.swift; sourceTree = "<group>"; };
+		4B3833BC2BFFA84D003B1E1A /* Cantik.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Cantik.mp3; sourceTree = "<group>"; };
+		4B3833BE2BFFAE00003B1E1A /* Alkohol.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Alkohol.mp3; sourceTree = "<group>"; };
+		4B3833C02BFFB0F1003B1E1A /* How Deep Is Your Love.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "How Deep Is Your Love.mp3"; sourceTree = "<group>"; };
+		4B3833C22BFFB1DC003B1E1A /* Cari Pacar Lagi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Cari Pacar Lagi.mp3"; sourceTree = "<group>"; };
+		4B3833C42BFFBFBA003B1E1A /* Nuansa Bening.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Nuansa Bening.mp3"; sourceTree = "<group>"; };
+		4B50291B2BF4B7040081A626 /* Harmonia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Harmonia.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B50291E2BF4B7040081A626 /* GuestSongApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuestSongApp.swift; sourceTree = "<group>"; };
 		4B5029202BF4B7040081A626 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4B5029222BF4B7050081A626 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4B5029252BF4B7050081A626 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		4B50292B2BF4B7050081A626 /* GuestSongTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GuestSongTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4B50292B2BF4B7050081A626 /* HarmoniaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HarmoniaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B50292F2BF4B7050081A626 /* GuestSongTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuestSongTests.swift; sourceTree = "<group>"; };
-		4B5029352BF4B7050081A626 /* GuestSongUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GuestSongUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4B5029352BF4B7050081A626 /* HarmoniaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HarmoniaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B5029392BF4B7050081A626 /* GuestSongUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuestSongUITests.swift; sourceTree = "<group>"; };
 		4B50293B2BF4B7050081A626 /* GuestSongUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuestSongUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		4B50294E2BF4B7580081A626 /* AnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationView.swift; sourceTree = "<group>"; };
 		4B5029512BF4E1E40081A626 /* PrimaryButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrimaryButton.swift; sourceTree = "<group>"; };
 		4B5029532BF4FB310081A626 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
-		4B5FB6032BF59E9900CEA352 /* QuestionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionView.swift; sourceTree = "<group>"; };
+		4B514DD42BFC9594006F07C8 /* Backburner.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Backburner.mp3; sourceTree = "<group>"; };
+		4B514DD62BFC97D5006F07C8 /* Keep You Safe.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Keep You Safe.mp3"; sourceTree = "<group>"; };
+		4B5FB6032BF59E9900CEA352 /* EasyQuestionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EasyQuestionView.swift; sourceTree = "<group>"; };
 		4B5FB6052BF5A0BF00CEA352 /* ProgressBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressBar.swift; sourceTree = "<group>"; };
 		4B5FB6072BF5ABD700CEA352 /* SongModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongModel.swift; sourceTree = "<group>"; };
 		4B5FB6092BF5BCE800CEA352 /* QuizModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizModel.swift; sourceTree = "<group>"; };
 		4B8231782BF706210053A193 /* Losing Us.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Losing Us.mp3"; sourceTree = "<group>"; };
-		4B82317A2BF72AEA0053A193 /* Bejeweled.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Bejeweled.mp3; sourceTree = "<group>"; };
+		4B917C7C2BFC4E2B005DADC9 /* Love In The Dark.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Love In The Dark.mp3"; sourceTree = "<group>"; };
+		4B917C7E2BFC4F42005DADC9 /* Eenie Meenie.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Eenie Meenie.mp3"; sourceTree = "<group>"; };
+		4B917C802BFC5169005DADC9 /* Nobody Gets Me.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Nobody Gets Me.mp3"; sourceTree = "<group>"; };
+		4B917C822BFC5808005DADC9 /* She Will be Loved.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "She Will be Loved.mp3"; sourceTree = "<group>"; };
+		4BA61C8C2C0066D000A9BBB6 /* Guilty As Sin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Guilty As Sin.mp3"; sourceTree = "<group>"; };
+		4BD37C9E2BFB4CE900E23E4D /* Light Stories.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Light Stories.ttf"; sourceTree = "<group>"; };
+		4BD37C9F2BFB8E1700E23E4D /* HardQuestionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HardQuestionView.swift; sourceTree = "<group>"; };
+		4BD37CA12BFB8EC800E23E4D /* ChooseLevelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChooseLevelView.swift; sourceTree = "<group>"; };
+		4BD37CA32BFBBCE000E23E4D /* The Man That Cant be Moved.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "The Man That Cant be Moved.mp3"; sourceTree = "<group>"; };
+		4BD37CA52BFBBF6800E23E4D /* A Dream Is a Wish Your Heart Makes.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "A Dream Is a Wish Your Heart Makes.mp3"; sourceTree = "<group>"; };
 		4BDB54862BF63DC600C6662B /* Kupu kupu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Kupu kupu.mp3"; sourceTree = "<group>"; };
 		4BDB54872BF63DC600C6662B /* Panah Asmara.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Panah Asmara.mp3"; sourceTree = "<group>"; };
 		4BDB54882BF63DC600C6662B /* Lover.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Lover.mp3; sourceTree = "<group>"; };
@@ -114,9 +153,9 @@
 		4B50291C2BF4B7040081A626 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4B50291B2BF4B7040081A626 /* GuestSong.app */,
-				4B50292B2BF4B7050081A626 /* GuestSongTests.xctest */,
-				4B5029352BF4B7050081A626 /* GuestSongUITests.xctest */,
+				4B50291B2BF4B7040081A626 /* Harmonia.app */,
+				4B50292B2BF4B7050081A626 /* HarmoniaTests.xctest */,
+				4B5029352BF4B7050081A626 /* HarmoniaUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -124,6 +163,7 @@
 		4B50291D2BF4B7040081A626 /* GuestSong */ = {
 			isa = PBXGroup;
 			children = (
+				4BD37C9E2BFB4CE900E23E4D /* Light Stories.ttf */,
 				4BDB548E2BF63E3A00C6662B /* ViewModel */,
 				4B5029502BF4E1D20081A626 /* Component */,
 				4B50294A2BF4B7320081A626 /* Model */,
@@ -175,7 +215,10 @@
 			children = (
 				4B50291E2BF4B7040081A626 /* GuestSongApp.swift */,
 				4B5029202BF4B7040081A626 /* ContentView.swift */,
-				4B5FB6032BF59E9900CEA352 /* QuestionView.swift */,
+				4B5FB6032BF59E9900CEA352 /* EasyQuestionView.swift */,
+				4BD37C9F2BFB8E1700E23E4D /* HardQuestionView.swift */,
+				4BD37CA12BFB8EC800E23E4D /* ChooseLevelView.swift */,
+				4B0445142BFE02A800D893D2 /* DetailSongView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -185,6 +228,7 @@
 			children = (
 				4B5FB6072BF5ABD700CEA352 /* SongModel.swift */,
 				4B5FB6092BF5BCE800CEA352 /* QuizModel.swift */,
+				4B0445122BFE01F600D893D2 /* SongDetailModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -201,7 +245,22 @@
 		4BDB54852BF63DC600C6662B /* Song */ = {
 			isa = PBXGroup;
 			children = (
-				4B82317A2BF72AEA0053A193 /* Bejeweled.mp3 */,
+				4BA61C8C2C0066D000A9BBB6 /* Guilty As Sin.mp3 */,
+				4B3833C42BFFBFBA003B1E1A /* Nuansa Bening.mp3 */,
+				4B3833C02BFFB0F1003B1E1A /* How Deep Is Your Love.mp3 */,
+				4B3833C22BFFB1DC003B1E1A /* Cari Pacar Lagi.mp3 */,
+				4B3833BE2BFFAE00003B1E1A /* Alkohol.mp3 */,
+				4B3833BC2BFFA84D003B1E1A /* Cantik.mp3 */,
+				4B0445102BFDF65F00D893D2 /* It Will Rain.mp3 */,
+				4B04450E2BFDF39100D893D2 /* Best Part.mp3 */,
+				4B514DD62BFC97D5006F07C8 /* Keep You Safe.mp3 */,
+				4B514DD42BFC9594006F07C8 /* Backburner.mp3 */,
+				4B917C822BFC5808005DADC9 /* She Will be Loved.mp3 */,
+				4B917C802BFC5169005DADC9 /* Nobody Gets Me.mp3 */,
+				4B917C7E2BFC4F42005DADC9 /* Eenie Meenie.mp3 */,
+				4B917C7C2BFC4E2B005DADC9 /* Love In The Dark.mp3 */,
+				4BD37CA32BFBBCE000E23E4D /* The Man That Cant be Moved.mp3 */,
+				4BD37CA52BFBBF6800E23E4D /* A Dream Is a Wish Your Heart Makes.mp3 */,
 				4B8231782BF706210053A193 /* Losing Us.mp3 */,
 				4BDB54862BF63DC600C6662B /* Kupu kupu.mp3 */,
 				4BDB54872BF63DC600C6662B /* Panah Asmara.mp3 */,
@@ -222,9 +281,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4B50291A2BF4B7040081A626 /* GuestSong */ = {
+		4B50291A2BF4B7040081A626 /* Harmonia */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4B50293F2BF4B7050081A626 /* Build configuration list for PBXNativeTarget "GuestSong" */;
+			buildConfigurationList = 4B50293F2BF4B7050081A626 /* Build configuration list for PBXNativeTarget "Harmonia" */;
 			buildPhases = (
 				4B5029172BF4B7040081A626 /* Sources */,
 				4B5029182BF4B7040081A626 /* Frameworks */,
@@ -234,17 +293,17 @@
 			);
 			dependencies = (
 			);
-			name = GuestSong;
+			name = Harmonia;
 			packageProductDependencies = (
 				4B50294C2BF4B7440081A626 /* Lottie */,
 			);
 			productName = GuestSong;
-			productReference = 4B50291B2BF4B7040081A626 /* GuestSong.app */;
+			productReference = 4B50291B2BF4B7040081A626 /* Harmonia.app */;
 			productType = "com.apple.product-type.application";
 		};
-		4B50292A2BF4B7050081A626 /* GuestSongTests */ = {
+		4B50292A2BF4B7050081A626 /* HarmoniaTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4B5029422BF4B7050081A626 /* Build configuration list for PBXNativeTarget "GuestSongTests" */;
+			buildConfigurationList = 4B5029422BF4B7050081A626 /* Build configuration list for PBXNativeTarget "HarmoniaTests" */;
 			buildPhases = (
 				4B5029272BF4B7050081A626 /* Sources */,
 				4B5029282BF4B7050081A626 /* Frameworks */,
@@ -255,14 +314,14 @@
 			dependencies = (
 				4B50292D2BF4B7050081A626 /* PBXTargetDependency */,
 			);
-			name = GuestSongTests;
+			name = HarmoniaTests;
 			productName = GuestSongTests;
-			productReference = 4B50292B2BF4B7050081A626 /* GuestSongTests.xctest */;
+			productReference = 4B50292B2BF4B7050081A626 /* HarmoniaTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		4B5029342BF4B7050081A626 /* GuestSongUITests */ = {
+		4B5029342BF4B7050081A626 /* HarmoniaUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4B5029452BF4B7050081A626 /* Build configuration list for PBXNativeTarget "GuestSongUITests" */;
+			buildConfigurationList = 4B5029452BF4B7050081A626 /* Build configuration list for PBXNativeTarget "HarmoniaUITests" */;
 			buildPhases = (
 				4B5029312BF4B7050081A626 /* Sources */,
 				4B5029322BF4B7050081A626 /* Frameworks */,
@@ -273,9 +332,9 @@
 			dependencies = (
 				4B5029372BF4B7050081A626 /* PBXTargetDependency */,
 			);
-			name = GuestSongUITests;
+			name = HarmoniaUITests;
 			productName = GuestSongUITests;
-			productReference = 4B5029352BF4B7050081A626 /* GuestSongUITests.xctest */;
+			productReference = 4B5029352BF4B7050081A626 /* HarmoniaUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -301,7 +360,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4B5029162BF4B7040081A626 /* Build configuration list for PBXProject "GuestSong" */;
+			buildConfigurationList = 4B5029162BF4B7040081A626 /* Build configuration list for PBXProject "Harmonia" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -317,9 +376,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4B50291A2BF4B7040081A626 /* GuestSong */,
-				4B50292A2BF4B7050081A626 /* GuestSongTests */,
-				4B5029342BF4B7050081A626 /* GuestSongUITests */,
+				4B50291A2BF4B7040081A626 /* Harmonia */,
+				4B50292A2BF4B7050081A626 /* HarmoniaTests */,
+				4B5029342BF4B7050081A626 /* HarmoniaUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -329,14 +388,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4B3833BD2BFFA84D003B1E1A /* Cantik.mp3 in Resources */,
+				4B04450F2BFDF39100D893D2 /* Best Part.mp3 in Resources */,
+				4B3833BF2BFFAE00003B1E1A /* Alkohol.mp3 in Resources */,
+				4B514DD72BFC97D5006F07C8 /* Keep You Safe.mp3 in Resources */,
+				4B3833C32BFFB1DC003B1E1A /* Cari Pacar Lagi.mp3 in Resources */,
+				4BA61C8D2C0066D000A9BBB6 /* Guilty As Sin.mp3 in Resources */,
+				4B917C832BFC5808005DADC9 /* She Will be Loved.mp3 in Resources */,
 				4BDB548C2BF63DC600C6662B /* Lover.mp3 in Resources */,
 				4B5029262BF4B7050081A626 /* Preview Assets.xcassets in Resources */,
-				4B82317B2BF72AEA0053A193 /* Bejeweled.mp3 in Resources */,
 				4BDB548A2BF63DC600C6662B /* Kupu kupu.mp3 in Resources */,
+				4BD37CA62BFBBF6800E23E4D /* A Dream Is a Wish Your Heart Makes.mp3 in Resources */,
+				4B917C812BFC5169005DADC9 /* Nobody Gets Me.mp3 in Resources */,
+				4B514DD52BFC9594006F07C8 /* Backburner.mp3 in Resources */,
 				4B5029232BF4B7050081A626 /* Assets.xcassets in Resources */,
+				4B3833C12BFFB0F1003B1E1A /* How Deep Is Your Love.mp3 in Resources */,
+				4B3833C52BFFBFBA003B1E1A /* Nuansa Bening.mp3 in Resources */,
+				4B917C7D2BFC4E2B005DADC9 /* Love In The Dark.mp3 in Resources */,
+				4B917C7F2BFC4F42005DADC9 /* Eenie Meenie.mp3 in Resources */,
 				4BDB548D2BF63DC600C6662B /* Rodeo.mp3 in Resources */,
 				4BDB548B2BF63DC600C6662B /* Panah Asmara.mp3 in Resources */,
+				4BD37CA42BFBBCE000E23E4D /* The Man That Cant be Moved.mp3 in Resources */,
 				4B8231792BF706210053A193 /* Losing Us.mp3 in Resources */,
+				4B0445112BFDF65F00D893D2 /* It Will Rain.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -361,16 +435,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4B5FB6042BF59E9900CEA352 /* QuestionView.swift in Sources */,
+				4B5FB6042BF59E9900CEA352 /* EasyQuestionView.swift in Sources */,
 				4B5029542BF4FB310081A626 /* Extensions.swift in Sources */,
+				4BD37CA22BFB8EC800E23E4D /* ChooseLevelView.swift in Sources */,
 				4B5FB6082BF5ABD700CEA352 /* SongModel.swift in Sources */,
 				4BDB54902BF63E6700C6662B /* QuizViewModel.swift in Sources */,
 				4B50294F2BF4B7580081A626 /* AnimationView.swift in Sources */,
 				4B5FB60A2BF5BCE800CEA352 /* QuizModel.swift in Sources */,
 				4B5029212BF4B7040081A626 /* ContentView.swift in Sources */,
+				4B0445132BFE01F600D893D2 /* SongDetailModel.swift in Sources */,
+				4B0445152BFE02A800D893D2 /* DetailSongView.swift in Sources */,
 				4B5029522BF4E1E40081A626 /* PrimaryButton.swift in Sources */,
 				4B50291F2BF4B7040081A626 /* GuestSongApp.swift in Sources */,
 				4B5FB6062BF5A0BF00CEA352 /* ProgressBar.swift in Sources */,
+				4BD37CA02BFB8E1700E23E4D /* HardQuestionView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -396,12 +474,12 @@
 /* Begin PBXTargetDependency section */
 		4B50292D2BF4B7050081A626 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4B50291A2BF4B7040081A626 /* GuestSong */;
+			target = 4B50291A2BF4B7040081A626 /* Harmonia */;
 			targetProxy = 4B50292C2BF4B7050081A626 /* PBXContainerItemProxy */;
 		};
 		4B5029372BF4B7050081A626 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4B50291A2BF4B7040081A626 /* GuestSong */;
+			target = 4B50291A2BF4B7040081A626 /* Harmonia */;
 			targetProxy = 4B5029362BF4B7050081A626 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -537,11 +615,13 @@
 				DEVELOPMENT_TEAM = 5CCCQW7FJ8;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.music-games";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -566,11 +646,13 @@
 				DEVELOPMENT_TEAM = 5CCCQW7FJ8;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.music-games";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -600,7 +682,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GuestSong.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/GuestSong";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Harmonia.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Harmonia";
 			};
 			name = Debug;
 		};
@@ -620,7 +702,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GuestSong.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/GuestSong";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Harmonia.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Harmonia";
 			};
 			name = Release;
 		};
@@ -663,7 +745,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4B5029162BF4B7040081A626 /* Build configuration list for PBXProject "GuestSong" */ = {
+		4B5029162BF4B7040081A626 /* Build configuration list for PBXProject "Harmonia" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4B50293D2BF4B7050081A626 /* Debug */,
@@ -672,7 +754,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4B50293F2BF4B7050081A626 /* Build configuration list for PBXNativeTarget "GuestSong" */ = {
+		4B50293F2BF4B7050081A626 /* Build configuration list for PBXNativeTarget "Harmonia" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4B5029402BF4B7050081A626 /* Debug */,
@@ -681,7 +763,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4B5029422BF4B7050081A626 /* Build configuration list for PBXNativeTarget "GuestSongTests" */ = {
+		4B5029422BF4B7050081A626 /* Build configuration list for PBXNativeTarget "HarmoniaTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4B5029432BF4B7050081A626 /* Debug */,
@@ -690,7 +772,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4B5029452BF4B7050081A626 /* Build configuration list for PBXNativeTarget "GuestSongUITests" */ = {
+		4B5029452BF4B7050081A626 /* Build configuration list for PBXNativeTarget "HarmoniaUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4B5029462BF4B7050081A626 /* Debug */,

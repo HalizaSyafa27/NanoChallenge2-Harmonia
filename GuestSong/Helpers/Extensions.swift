@@ -9,9 +9,22 @@ import Foundation
 import SwiftUI
 
 extension Text{
-    func purpleTitle() -> some View{
-        self.font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/)
-            .fontWeight(.heavy)
-            .foregroundColor(Color.text)
-    }
+//    func Tittle() -> some View{
+//        self.font(.largeTitle)
+//            .fontWeight(.bold)
+//            .foregroundColor(Color.white)
+//            .shadow(color: Color.outline, radius: 1, x: 1, y: 1)
+//            .shadow(color: Color.outline, radius: 1, x: -1, y: -1)
+//            .shadow(color: Color.outline, radius: 1, x: -1, y: 1)
+//            .shadow(color: Color.outline, radius: 1, x: 1, y: -1)
+//    }
+//    
+//    func Text() -> some View{
+//        self.font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/)
+//            .foregroundColor(Color.white)
+//            .shadow(color: Color.outline, radius: 1, x: 1, y: 1)
+//            .shadow(color: Color.outline, radius: 1, x: -1, y: -1)
+//            .shadow(color: Color.outline, radius: 1, x: -1, y: 1)
+//            .shadow(color: Color.outline, radius: 1, x: 1, y: -1)
+//    }
 }

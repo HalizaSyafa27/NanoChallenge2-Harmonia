@@ -6,3 +6,9 @@
 //
 
 import Foundation
+import SwiftUI
+
+struct SongDetailModel{
+    let id: String
+    let image: String
+}

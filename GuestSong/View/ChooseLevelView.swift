@@ -8,8 +8,31 @@
 import SwiftUI
 
 struct ChooseLevelView: View {
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        NavigationStack{
+            ZStack{
+                    Image("ChooseLevel")
+                                .resizable()
+                                .ignoresSafeArea()
+                                
+                    VStack{
+                        NavigationLink(destination: EasyQuestionView()) {
+                                        PrimaryButton(text: "Original Voice", width: 300, height: 50, fontSize: 24)
+                                        .padding()
+                                           }
+                        
+                        NavigationLink(destination: HardQuestionView()) {
+                                        PrimaryButton(text: "Mystery Voice", width: 300, height: 50, fontSize: 24)
+                                        .padding()
+                                           }
+                        
+                    }
+                    .padding(.bottom, 100)
+                }
+        }
+    
+        
     }
 }
 
