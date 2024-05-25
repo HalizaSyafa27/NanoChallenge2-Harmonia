@@ -19,7 +19,7 @@ struct ContentView: View {
                         NavigationLink(destination: ChooseLevelView()) {
                             PrimaryButton(text: "Start", width: 200, height: 50, fontSize: 24)
                         }
-                        .padding(.top, 300)
+                        .padding(.top, 301)
                     }
                   
                 }
